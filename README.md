@@ -26,7 +26,7 @@ This repository hosts a fundamental backend application demonstrating a basic us
 *   cookie-parser
 *   dotenv
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
