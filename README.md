@@ -11,7 +11,7 @@ This repository hosts a fundamental backend application demonstrating a basic us
 *   **MongoDB Integration**: Utilizes Mongoose for robust database interactions.
 *   **Modular Project Structure**: Organized code for maintainability and scalability.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Languages
 *   JavaScript
