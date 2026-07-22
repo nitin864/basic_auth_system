@@ -1,6 +1,6 @@
 # Basic Authentication System
 
-This repository hosts a fundamental backend application demonstrating a basic user authentication system. Built with Node.js and Express.js, it features user registration, JSON Web Token (JWT) based authentication, and protected routes using cookies. It connects to a MongoDB database for user data management.
+This repo hosts a fundamental backend application demonstrating a basic user authentication system. Built with Node.js and Express.js, it features user registration, JSON Web Token (JWT) based authentication, and protected routes using cookies. It connects to a MongoDB database for user data management.
 
 ##  Key Features
 
