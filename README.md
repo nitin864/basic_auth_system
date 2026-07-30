@@ -54,7 +54,7 @@ Before you begin, ensure you have the following installed:
     Create a file named `.env` in the root directory of the project and add the following environment variables:
     ```env
     PORT=3000
-    MONGODB_URI=your
+    MONGODB_URI=your_mongoDB_uri
     JWT_SECRET=your_jwt_secret_key_here # Use a strong, random string
     ```
     *   Replace `mongodb://localhost:27017/auth_db` with your actual MongoDB connection string if it's different.
